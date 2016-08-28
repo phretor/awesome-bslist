@@ -3,7 +3,6 @@
     "last_update": "2016-08-28T13:05:53+0200",
     "source_urls": [
       "http://www.butac.it/the-black-list/",
-      "http://www.butac.it/the-black-list/",
       "http://www.bufale.net/home/the-black-list-la-lista-nera-del-web/",
       "http://bufalopedia.blogspot.it/p/siti-creatori-di-bufale.html",
       "http://www.antbear.it/black-list-bufale/",
@@ -44,6 +43,19 @@
             "https://www.facebook.com/nocensura",
             "https://twitter.com/nocensura",
             "https://plus.google.com/u/0/+nocensura"
+          ]
+        },
+        "Eticamente.net": {
+          "urls": [
+            "http://www.eticamente.net/",
+            "https://www.facebook.com/EticaMente/"
+          ]
+        },
+        "Gazzettino Web": {
+          "urls": [
+            "http://gazzettinoweb.altervista.org/",
+            "https://www.facebook.com/gazzettinoallnews",
+            "https://twitter.com/gazzettinoweb"
           ]
         },
         "ApriLaMente": {
