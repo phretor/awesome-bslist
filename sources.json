@@ -58,18 +58,18 @@
             "https://twitter.com/gazzettinoweb"
           ]
         },
-				"Il Giornaliere": {
+        "Il Giornaliere": {
           "urls": [
             /* URLs needed */
           ]
         },
-				"ImolaOggi": {
+        "ImolaOggi": {
           "urls": [
             "http://www.imolaoggi.it/",
             "https://www.facebook.com/Imola0ggi/"
           ]
         },
-				"Informare X Resistere": {
+        "Informare X Resistere": {
           "urls": [
             "http://www.informarexresistere.fr/",
             "https://www.facebook.com/informareXresistere/",
@@ -78,25 +78,25 @@
             "https://plus.google.com/+informarexresistere"
           ]
         },
-				"Informatitalia": {},
-				"Jeda News, l’informazione alternativa": {},
-				"La Gazzetta della Sera": {},
-				"Mafia Capitale": {},
-				"Italia Hot Spot": {},
-				"No Censura": {},
-				"Notizie dal web": {},
-				"Piove Governo Ladro": {},
-				"Salute360Gradi": {},
-				"Sapere è un dovere": {},
-				"Senza Censura": {},
-				"Siamo La Gente": {},
-				"Signoraggio": {},
-				"Tricolore": {},
-				"Ticino Live": {},
-				"Tutti i crimini degli immigrati": {},
-				"VNews24": {},
-				"VoxNews": {},
-				"V per vera informazione": {},
+        "Informatitalia": {},
+        "Jeda News, l’informazione alternativa": {},
+        "La Gazzetta della Sera": {},
+        "Mafia Capitale": {},
+        "Italia Hot Spot": {},
+        "No Censura": {},
+        "Notizie dal web": {},
+        "Piove Governo Ladro": {},
+        "Salute360Gradi": {},
+        "Sapere è un dovere": {},
+        "Senza Censura": {},
+        "Siamo La Gente": {},
+        "Signoraggio": {},
+        "Tricolore": {},
+        "Ticino Live": {},
+        "Tutti i crimini degli immigrati": {},
+        "VNews24": {},
+        "VoxNews": {},
+        "V per vera informazione": {},
         "Attiviamoci": {},
         "Killuminati Soldiers": {},
         "Luogocomune": {},
@@ -132,7 +132,6 @@
         "Panorana.it": {},
         "Repubblica.altervista": {},
         "Rubrica24": {},
-
         "ApriLaMente": {
           "urls": [
             "http://aprilamente.myblog.it/",
