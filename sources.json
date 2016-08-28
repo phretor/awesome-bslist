@@ -31,13 +31,11 @@
           "urls": [
             "http://catenaumana.com/",
             "https://plus.google.com/108808559015798577094",
-            "https://www.facebook.com/mafiacapitale.info",
             "https://twitter.com/CatenaUmana",
-            "https://www.linkedin.com/in/catena-umana-a156b68a",
-            "http://mafiacapitale.info"
+            "https://www.linkedin.com/in/catena-umana-a156b68a"
           ]
         },
-        "Cose che nessuno ti dirà": {
+        "Cose che nessuno ti dirà (alias \"No Censura\")": {
           "urls": [
             "http://www.nocensura.com/",
             "https://www.facebook.com/nocensura",
@@ -78,15 +76,59 @@
             "https://plus.google.com/+informarexresistere"
           ]
         },
-        "Informatitalia": {},
-        "Jeda News, l’informazione alternativa": {},
-        "La Gazzetta della Sera": {},
-        "Mafia Capitale": {},
-        "Italia Hot Spot": {},
-        "No Censura": {},
-        "Notizie dal web": {},
-        "Piove Governo Ladro": {},
-        "Salute360Gradi": {},
+        "Informatitalia": {
+          "urls": [
+            "http://informatitalia.blogspot.it/",
+            "https://www.facebook.com/Informatitalia/"
+          ]
+        },
+        "Jeda News, l’informazione alternativa": {
+          "urls": [
+            "http://jedasupport.altervista.org/blog/",
+            "https://www.facebook.com/JedaNews/",
+            "https://twitter.com/jedasupport"
+          ]
+        },
+        "La Gazzetta della Sera": {
+          "urls": [
+            "http://www.gazzettadellasera.com/",
+            "https://www.facebook.com/gazzettasera/"
+          ]
+        },
+        "Mafia Capitale": {
+          "urls": [
+            "http://mafiacapitale.info",
+            "https://www.facebook.com/mafiacapitale.info"
+          ]
+        },
+        "Italia Hot Spot": {
+          "urls": [
+            "http://italiahotspot.altervista.org/",
+            "https://twitter.com/ItaliaHotspot"
+          ]
+        },
+        "Notizie dal web": {
+          /* URLs wanted */
+        },
+        "MorAsta": {
+          "urls": [
+            "http://www.morasta.it/"
+          ]
+        },
+        "Piove Governo Ladro": {
+          "urls": [
+            "http://www.piovegovernoladro.info/",
+            "https://plus.google.com/u/0/+PiovegovernoladroInfo",
+            "https://twitter.com/Piovegovernolad",
+            "https://it.pinterest.com/governoladro/",
+            "https://www.youtube.com/channel/UCv2eUu-Pugp7iXHRLN9hisA",
+            "http://acaro72.tumblr.com/",
+            "https://www.facebook.com/Piovegovernoladro/"
+          ]
+        },
+        "Salute360Gradi": {
+          /* URLs wanted */
+        },
         "Sapere è un dovere": {},
         "Senza Censura": {},
         "Siamo La Gente": {},
