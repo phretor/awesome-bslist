@@ -58,6 +58,81 @@
             "https://twitter.com/gazzettinoweb"
           ]
         },
+				"Il Giornaliere": {
+          "urls": [
+            /* URLs needed */
+          ]
+        },
+				"ImolaOggi": {
+          "urls": [
+            "http://www.imolaoggi.it/",
+            "https://www.facebook.com/Imola0ggi/"
+          ]
+        },
+				"Informare X Resistere": {
+          "urls": [
+            "http://www.informarexresistere.fr/",
+            "https://www.facebook.com/informareXresistere/",
+            "https://twitter.com/infoxresist",
+            "https://www.youtube.com/user/informarexresistere",
+            "https://plus.google.com/+informarexresistere"
+          ]
+        },
+				"Informatitalia": {},
+				"Jeda News, l’informazione alternativa": {},
+				"La Gazzetta della Sera": {},
+				"Mafia Capitale": {},
+				"Italia Hot Spot": {},
+				"No Censura": {},
+				"Notizie dal web": {},
+				"Piove Governo Ladro": {},
+				"Salute360Gradi": {},
+				"Sapere è un dovere": {},
+				"Senza Censura": {},
+				"Siamo La Gente": {},
+				"Signoraggio": {},
+				"Tricolore": {},
+				"Ticino Live": {},
+				"Tutti i crimini degli immigrati": {},
+				"VNews24": {},
+				"VoxNews": {},
+				"V per vera informazione": {},
+        "Attiviamoci": {},
+        "Killuminati Soldiers": {},
+        "Luogocomune": {},
+        "Misteri d’Italia": {},
+        "New Apocalypse": {},
+        "Tactical Media Crew": {},
+        "Tanker Enemy": {},
+        "Evidenza Aliena": {},
+        "Ecologia sociale": {},
+        "La Stella": {},
+        "Nexus Edizioni": {},
+        "Scienza di confine": {},
+        "Segni dal cielo": {},
+        "Autismo e Vaccini": {},
+        "Alleanza della salute": {},
+        "La leva di Archimede": {},
+        "Mamme In rete": {},
+        "Vaccini Informa": {},
+        "Corriere della Notte": {},
+        "Coriere dela Sera": {},
+        "Corriere del Corsaro": {},
+        "Chiave Orgonica": {},
+        "Io Vivo a Roma": {},
+        "Il Giomale": {},
+        "Il Matto quotidiano": {},
+        "Il Corriere della pera": {},
+        "Il QuotiDaino": {},
+        "Lo Specchio": {},
+        "LaSera": {},
+        "LiberoGiornale": {},
+        "Notizie Pericolose": {},
+        "Lercio": {},
+        "Panorana.it": {},
+        "Repubblica.altervista": {},
+        "Rubrica24": {},
+
         "ApriLaMente": {
           "urls": [
             "http://aprilamente.myblog.it/",
