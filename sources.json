@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "last_update": "2016-08-28T13:05:53+0200",
+    "source_urls": [
+      "http://www.butac.it/the-black-list/"
+    ]
+  },
+  "blacklist": {
+    "By Country": {
+      "Italy": {
+        "Adesso Fuori dai Coglioni": {
+          "urls": [
+            "http://www.adessofuoridaicoglioni.com/",
+            "http://www.informazionelibera.eu/",
+            "https://www.facebook.com/adessofuo/",
+            "https://www.facebook.com/Made-in-Italy-20-1172603059437886/"
+          ]
+        },
+        "Bastabugie": {
+          "urls": [
+            "http://www.bastabugie.it/",
+            "https://www.facebook.com/BastaBugie.PaginaUfficiale",
+            "http://www.twitter.com/BASTABUGIE"
+          ]
+        },
+        "CatenaUmana": {
+          "urls": [
+            "http://catenaumana.com/",
+            "https://plus.google.com/108808559015798577094",
+            "https://www.facebook.com/mafiacapitale.info",
+            "https://twitter.com/CatenaUmana",
+            "https://www.linkedin.com/in/catena-umana-a156b68a",
+            "http://mafiacapitale.info"
+          ]
+        },
+        "Cose che nessuno ti dirà": {
+          "urls": [
+            "http://www.nocensura.com/",
+            "https://www.facebook.com/nocensura",
+            "https://twitter.com/nocensura",
+            "https://plus.google.com/u/0/+nocensura"
+          ]
+        },
+        "ApriLaMente": {
+          "urls": [
+            "http://aprilamente.myblog.it/",
+            "https://www.facebook.com/Aprilamente-599728186836962/"
+          ]
+        },
+        "DionIdream": {
+          "urls": [
+            "http://www.dionidream.com/",
+            "https://www.facebook.com/dionidream",
+            "https://twitter.com/Dionidream",
+            "https://plus.google.com/+Dionidream"
+          ]
+        },
+        "Evidenza Aliena": {
+          "urls": [
+            "http://evidenzaliena.altervista.org/",
+            "https://www.facebook.com/evidenzaliena/",
+            "https://www.youtube.com/channel/UCWs6VlP4FsOa5VAP8JMYC1g",
+            "https://twitter.com/alevidenzaliena",
+            "https://plus.google.com/u/0/105591388142338645848"
+          ]
+        }
+      }
+    }
+  }
+}
