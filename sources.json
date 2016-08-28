@@ -129,7 +129,14 @@
         "Salute360Gradi": {
           /* URLs wanted */
         },
-        "Sapere è un dovere": {},
+        "Sapere è un dovere": {
+          "urls": [
+            "http://sapereeundovere.com/",
+            "https://www.facebook.com/SapereEUnDovere",
+            "https://plus.google.com/111840228974522412692",
+            "https://twitter.com/@SapereeunDovere"
+          ]
+        },
         "Senza Censura": {},
         "Siamo La Gente": {},
         "Signoraggio": {},
